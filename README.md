@@ -1,13 +1,9 @@
 # Game-Godot-nave
 I developed this game with the help of an online course that I took on the udemy platform, which I was able to learn more about the dgscript programming language
 
-gamenave20d
-gamenave20
-User
-
-|----------|----------|
+##Screenshot and Description
 | ![App Screenshot](gamenave20d.jpg) | ![App Screenshot](gamenave20jpg.jpg) |
-
+the ship fights against enemies that are automatically generated on the screen, I can control the ship with the arrows (up, down, right, left), to shoot I use the "x" key, when I get the super power that is inside a little ball blue that will appear on the screen randomly, this one gives me the power to have two weapons when I press the "x"
 
 MIT License
 

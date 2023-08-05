@@ -6,7 +6,7 @@ gamenave20
 User
 
 |----------|----------|
-| ![App Screenshot](gamenave20d.jpg) | ![App Screenshot](gamenave20.jpg.jpg) |
+| ![App Screenshot](gamenave20d.jpg) | ![App Screenshot](gamenave20jpg.jpg) |
 
 
 MIT License
